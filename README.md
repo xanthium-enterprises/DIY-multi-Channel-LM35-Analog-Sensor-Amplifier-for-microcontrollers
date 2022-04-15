@@ -1,4 +1,4 @@
-# DIY multi Channel LM35 Analog Sensor Amplifier for microcontroller based data acquisition
+# (Free Video Course) DIY multi Channel LM35 Analog Sensor Amplifier for microcontroller based data acquisition
 
 Build your own quad channel LM35 temperature sensor amplifier for data acquisition using Arduino/MSP430.
 
@@ -17,3 +17,12 @@ We will **learn to design and build an 4 channel LM35 temperature sensor chip Si
  - The board can also be used as a general purpose amplifier board that you can use to interface with other analog sensors and works with both  5V and 3.3 tolerant microcontrollers.
 - The board is designed with **Kicad 6.0** and the video tutorial teaches you how to design a circuit board from schematics to PCB with KICAD 6.0 EDA.
 - All the components used in the circuit are through hole components which helps the user to build the circuit in true DIY fashion and learn valuable soldering skills.
+
+-------------------------------------------------------------------------------------------------
+
+## Assembly Instructions
+
+- [You can watch the full video of how to build the 4 channel lm35 amplifier on Youtube.](https://www.youtube.com/watch?v=bcqfnzfBwUk)
+- [You can also find the assembly instructions of  4 channel lm35 amplifier on ourwebpage](https://www.xanthium.in/building-lm35-4-channel-temperature-sensor-amplifier-board)
+
+------------------------------------------------------------------------------------------------
