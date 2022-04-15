@@ -4,6 +4,8 @@ Build your own quad channel LM35 temperature sensor amplifier for data acquisiti
 
 A complete Youtube course where you learn to build a opamp amplifier for LM35 using Kicad 6.0 
 
+![LM35 4 channel temerature amplifier board for data acquisition](https://www.xanthium.in/sites/default/files/site-images/lm35-4ch-amplifier-brd/lm35-amplifier-board-full-assmbly.jpg)
+
 ------------------------------------------------------------------------------------------------------
 
 - [How to build 4 Channel LM35 Amplifier for Arduino Microcontroller Webpage](https://www.xanthium.in/lm35-temperature-sensor-analog-amplifier-board-arduino)
