@@ -38,4 +38,9 @@ The above image show the basic block diagram of the 4 channel LM35 based tempera
 -------------------------------------------------------------------------------------------------
 
 ## PCB Design
+
+- [Learn how to design the PCB of 4 Channel LM35 amplifier](https://www.youtube.com/watch?v=7rgMqaovDfg)
+
 ## LM35 Temperature Sensor Probe design
+
+- [Learn how to design a lM35 temperature probe](https://www.youtube.com/watch?v=f41x6J1HkWA)
