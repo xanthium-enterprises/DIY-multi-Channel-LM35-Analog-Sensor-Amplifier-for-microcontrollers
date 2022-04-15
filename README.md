@@ -30,5 +30,12 @@ We will **learn to design and build an 4 channel LM35 temperature sensor chip Si
 
 ![block diagram of 4 channel LM35 amplifier board for arduino](https://www.xanthium.in/sites/default/files/site-images/lm35-4ch-amplifier-brd/lm35-4-channel-temperature-voltage-amplifier-design.jpg)
 
+The above image show the basic block diagram of the 4 channel LM35 based temperature sensor board.
+
 - [Basic design of LM35 4 channel amplifier for DAQ on Arduino (Youtube)](https://www.youtube.com/watch?v=xqIwquTNCJY)
 - [Basic design of LM35 4 channel amplifier for DAQ on Arduino (Webpage)](https://www.xanthium.in/lm35-temperature-sensor-analog-amplifier-board-arduino)
+
+-------------------------------------------------------------------------------------------------
+
+## PCB Design
+## LM35 Temperature Sensor Probe design
