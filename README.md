@@ -41,6 +41,8 @@ The above image show the basic block diagram of the 4 channel LM35 based tempera
 
 ## PCB Design
 
+![pcb design of lm35 4 channel temperature sensor probe using kicad](https://www.xanthium.in/sites/default/files/site-images/lm35-4ch-amplifier-brd/LM32-PCB.png)
+
 - [Learn how to design the PCB of 4 Channel LM35 amplifier (Youtube Video Tutorial)](https://www.youtube.com/watch?v=7rgMqaovDfg)
 
 ## LM35 Temperature Sensor Probe design
