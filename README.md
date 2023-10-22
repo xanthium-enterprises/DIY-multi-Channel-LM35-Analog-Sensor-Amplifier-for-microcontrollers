@@ -1,10 +1,11 @@
+![](https://www.xanthium.in/sites/default/files/inline-images/lm35-analog-sensor-amplifier-designa-arduino.jpg)
 # DIY multi Channel LM35 Analog Sensor Amplifier for microcontroller based data acquisition
 
 - Build your own quad channel LM35 temperature sensor amplifier for data acquisition using Arduino/MSP430.
 
 - A complete Youtube course where you learn to build a opamp amplifier for LM35 using Kicad 6.0 
 
-![LM35 4 channel temerature amplifier board for data acquisition](https://www.xanthium.in/sites/default/files/site-images/lm35-4ch-amplifier-brd/lm35-amplifier-board-full-assmbly.jpg)
+![LM35 4 channel temerature amplifier board for data acquisition](https://www.xanthium.in/sites/default/files/inline-images/lm35-arduino-daq-python-pc-temperature-data-logger.jpg)
 
 ------------------------------------------------------------------------------------------------------
 
@@ -30,7 +31,7 @@ We will **learn to design and build an 4 channel LM35 temperature sensor chip Si
 ------------------------------------------------------------------------------------------------
 ## Designing the LM35 4 channel amplifier
 
-![block diagram of 4 channel LM35 amplifier board for arduino](https://www.xanthium.in/sites/default/files/site-images/lm35-4ch-amplifier-brd/lm35-4-channel-temperature-voltage-amplifier-design.jpg)
+![block diagram of 4 channel LM35 amplifier board for arduino](https://www.xanthium.in/sites/default/files/inline-images/lm35-4-channel-temperature-voltage-amplifier-design.jpg)
 
 The above image show the basic block diagram of the 4 channel LM35 based temperature sensor board.
 
@@ -41,10 +42,12 @@ The above image show the basic block diagram of the 4 channel LM35 based tempera
 
 ## PCB Design
 
-![pcb design of lm35 4 channel temperature sensor probe using kicad](https://www.xanthium.in/sites/default/files/site-images/lm35-4ch-amplifier-brd/LM32-PCB.png)
+![pcb design of lm35 4 channel temperature sensor probe using kicad](https://www.xanthium.in/sites/default/files/inline-images/lm35-amplifier-pcb.jpg)
 
 - [Learn how to design the PCB of 4 Channel LM35 amplifier (Youtube Video Tutorial)](https://www.youtube.com/watch?v=7rgMqaovDfg)
 
 ## LM35 Temperature Sensor Probe design
 
 - [Learn how to design a LM35 temperature probe (Youtube Video Tutorial) ](https://www.youtube.com/watch?v=f41x6J1HkWA)
+
+  
